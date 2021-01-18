@@ -1,4 +1,4 @@
-import 'package:custom_route_transitions/route_transitions.dart';
+import 'package:custom_route_transitions/custom_route_transitions.dart';
 import 'package:flutter/material.dart';
 import 'package:custom_route_transitions_2/pages/pagina2.dart';
 
